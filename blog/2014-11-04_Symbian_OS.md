@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Downfall of Symbian OS
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2014-11-04
-categories: Blog
-tags: [Downfall of Symbian]
+title: "Symbian OS"
+modified:
+categories: blog
+excerpt:
+tags: []
 
-comments: true
-share: true
 ---
  ***TERM PAPER***
 
