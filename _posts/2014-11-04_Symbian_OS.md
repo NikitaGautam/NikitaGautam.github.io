@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Symbian OS
+category: android
 title: Downfall of Symbian OS
 tagline: by Snail
 tags: [android, symbian, downfall, OS]
