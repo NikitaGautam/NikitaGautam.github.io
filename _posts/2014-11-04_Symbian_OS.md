@@ -5,6 +5,8 @@ title:DownfallOfSymbianOS
 tagline: by Snail
 tags: [android, symbian, downfall, OS]
 ---
+
+<!--more-->
  *** TERM PAPER *** 
 
 
