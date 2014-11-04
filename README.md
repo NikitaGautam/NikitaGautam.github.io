@@ -1,21 +1,35 @@
-Jekyll Themes
-=============
+# Simpleyyt
 
-A directory of the best-looking themes for Jekyll blogs
+My blog based on Jekyll-Bootstrap.
 
+## About Jekyll-Bootstrap
 
-Submitting a Theme
-------------------
+For all usage and documentation please see: <http://jekyllbootstrap.com>
 
-Have a theme you want to share?
+## About theme
 
-* Fork the site on GitHub
-* Create a new post in the `_posts` directory and fill out the relevant YAML fields
-* Make a 250x200 thumbnail and drop it int the thumbnails directory. List its filename in the post's markdown file.
-* Test it out, then push your changes up and open a pull request.
+This theme is the copy of [elementaryOS](http://elementaryos.org) portal page. Some features are imperfect, but I will make it more perfect.
 
+## Usage
 
-License
--------
+You can edit the `_config.yml` file to change the setting of site. If you want to change avatar or favicon, just replace the files in `assets\themes\Snail\img`.
 
-The contents of this repository are licensed under the [GNU Public License.](http://www.gnu.org/licenses/gpl-3.0.html)
+## About excerpt
+
+There are 2 ways of excerpt: "teaser" and "truncate_words" (Configurated in _config.yml).
+
+ * "teaser": look for the More tag (<!--more-->) and create a teaser from the content that precedes the More tag.
+You must place "<!--more-->" at paragraph in post. The whole content will be displayed in homepage if no More tag found in post.
+
+ * "truncate_words": generate an excerpt automatically by selecting the first 20 words of the post. It doesn't work well in some of no-English post.
+
+## Change Log
+
+ * Add pagination.
+ * Add new way of excerpt.
+ * Download google fonts to the local.
+ * Add google custom search engine.
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
