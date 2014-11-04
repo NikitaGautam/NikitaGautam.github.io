@@ -1,7 +1,7 @@
 ---
 layout: post
 category: android
-title: Downfall of Symbian OS
+title:强化你的DownfallOfSymbianOS——在android平板/手机上编写C/C++
 tagline: by Snail
 tags: [android, symbian, downfall, OS]
 ---
